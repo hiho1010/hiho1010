@@ -15,7 +15,7 @@
 
  - [로드메이커](https://github.com/road-maker/road-maker-spring) (2023.07 ~ 2023.08)
  - [집밥메이커](https://github.com/sku-sw-academy/jipbab-maker-spring) (2024.04 ~ 2024.06)
- - [Calorie-chat](https://github.com/hiho1010/calorie-chat) (2025.06)
+ - [칼로리챗](https://github.com/hiho1010/calorie-chat) (2025.06)
 
 <!--
 
@@ -43,8 +43,6 @@
 <p>
   <a href="hiho1010.tistory.com"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
 </p>
-
-[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tistory)](hiho1010.tistory.com)
 
 <h3>🏅 Baekjoon Online Judge Tier</h3>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heeho1010" alt="Baekjoon tier" width="150" />

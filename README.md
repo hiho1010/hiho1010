@@ -16,7 +16,7 @@
  - [로드메이커](https://github.com/road-maker/road-maker-spring) (2023.07 ~ 2023.08)
  - [집밥메이커](https://github.com/sku-sw-academy/jipbab-maker-spring) (2024.04 ~ 2024.06)
  - [칼로리챗](https://github.com/hiho1010/calorie-chat) (2025.06)
- - [오늘뭐읽지](https://github.com/today-b) (2025.12)
+ - [오늘뭐읽지](https://github.com/today-book) (2025.12)
 
 <!--
 
